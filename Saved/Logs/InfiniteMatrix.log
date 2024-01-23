@@ -1913,3 +1913,209 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.23-22.03.22:240][960]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.23-22.03.22:240][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
 [2024.01.23-22.03.22:240][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.01.23-22.04.39:808][959]LogEditorViewport: Clicking Background
+[2024.01.23-22.05.29:939][909]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.05.29:939][909]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.05.29:940][909]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.23-22.09.35:233][757]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.01.23-22.09.35:239][757]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.01.23-22.09.35:247][758]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.01.23-22.09.40:485][387]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2024.01.23-22.09.40:488][387]LogContentBrowser: End creating deferred item NewMaterial
+[2024.01.23-22.09.43:733][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.23-22.09.45:637][727]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-22.09.45:675][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.23-22.09.45:704][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.23-22.09.45:733][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.23-22.09.58:757][189]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.01.23-22.10.23:900][ 34]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.10.23:900][ 34]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.10.29:319][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.01.23-22.10.29:320][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.01.23-22.10.29:320][647]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_0
+[2024.01.23-22.10.29:326][647]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_0
+[2024.01.23-22.10.38:786][757]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.10.41:377][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2024.01.23-22.10.41:377][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2024.01.23-22.10.41:379][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_1
+[2024.01.23-22.10.41:379][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_1
+[2024.01.23-22.10.43:361][258]Cmd: TRANSACTION UNDO
+[2024.01.23-22.10.43:361][258]LogEditorTransaction: Undo Create Actor
+[2024.01.23-22.10.45:821][481]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.10.47:705][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.01.23-22.10.47:705][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.01.23-22.10.47:707][685]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_2
+[2024.01.23-22.10.47:707][685]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_2
+[2024.01.23-22.11.10:501][302]Cmd: TRANSACTION UNDO
+[2024.01.23-22.11.10:501][302]LogEditorTransaction: Undo Create Actor
+[2024.01.23-22.12.58:835][193]LogEditorViewport: Clicking Background
+[2024.01.23-22.13.00:308][365]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.13.02:211][567]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Content\BasicShapes\Plane.uasset: Error opening file.
+[2024.01.23-22.13.10:234][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.01.23-22.13.10:234][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.01.23-22.13.10:235][497]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_3
+[2024.01.23-22.13.10:235][497]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.StaticMeshActor_3
+[2024.01.23-22.13.26:154][225]LogEditorViewport: Clicking Background
+[2024.01.23-22.13.51:301][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.23-22.14.07:615][984]LogEditorViewport: Clicking Background
+[2024.01.23-22.14.25:822][ 75]LogEditorViewport: Clicking Background
+[2024.01.23-22.14.51:365][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.23-22.14.51:394][ 35]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto7
+[2024.01.23-22.14.51:394][ 35]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/TutorialMap_Auto76F8C3A914B21F57BA9A80EAB5A2AA490.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto7.umap'
+[2024.01.23-22.14.51:398][ 35]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.080
+[2024.01.23-22.14.51:398][ 35]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2024.01.23-22.15.52:156][515]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2024.01.23-22.16.35:438][757]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2024.01.23-22.16.35:449][757]LogActorComponent: UnregisterComponent: (/Game/InfiniteMatrix/Blueprints/HealthPack_Blueprint.Default__HealthPack_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2024.01.23-22.16.35:483][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.23-22.16.35:509][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/HealthPack_Blueprint.HealthPack_Blueprint
+[2024.01.23-22.16.35:509][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.16.35:509][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.16.35:754][757]LogViewport: Scene viewport resized to 1122x490, mode Windowed.
+[2024.01.23-22.16.35:866][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.17.55:513][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.01.23-22.17.55:514][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.17.55:514][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.20.04:326][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.01.23-22.20.04:328][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.20.04:328][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.20.12:868][481]LogViewport: Scene viewport resized to 1122x490, mode Windowed.
+[2024.01.23-22.26.59:878][348]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.01.23-22.26.59:883][348]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.01.23-22.26.59:891][348]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-22.26.59:891][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-22.26.59:940][348]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.23-22.26.59:940][348]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-22.26.59:940][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-22.27.00:040][348]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.23-22.27.00:041][348]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-22.27.00:041][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-22.27.05:718][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.23-22.27.09:971][971]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-22.27.10:051][971]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/HealthPack_Blueprint.HealthPack_Blueprint
+	Asset Type: Blueprint
+[2024.01.23-22.27.10:436][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.01.23-22.27.10:496][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.23-22.27.10:524][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.23-22.27.10:549][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.23-22.27.31:778][170]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.23-22.27.31:783][170]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.23-22.27.31:788][170]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.23-22.27.31:798][171]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.23-22.27.34:866][530]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1663)].
+[2024.01.23-22.27.34:866][530]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.01.23-22.27.34:879][530]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.23-22.27.34:918][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.23-22.27.34:940][530]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto8
+[2024.01.23-22.27.34:940][530]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/TutorialMap_Auto86DC915A04022342B46BAFDBD8FF8AB59.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto8.umap'
+[2024.01.23-22.27.34:942][530]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.055
+[2024.01.23-22.27.34:942][530]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2024.01.23-22.27.34:943][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2024.01.23-22.27.34:943][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2024.01.23-22.27.34:985][530]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto8
+[2024.01.23-22.27.34:986][530]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_Player_Auto81662B4BC4BB243EF5388E181A55F2BC0.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto8.uasset'
+[2024.01.23-22.27.34:987][530]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.01.23-22.27.48:659][120]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HealthPack
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.SKEL_BP_HealthPack_C:UserConstructionScript' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.SKEL_BP_HealthPack_C' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:694][120]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.27.48:699][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-22.27.48:785][120]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_HealthPack
+[2024.01.23-22.27.48:786][120]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_HealthPack434A6C6F4B64529E90D4EBB3EBFF5341.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2024.01.23-22.27.48:799][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 469 ms)
+[2024.01.23-22.27.48:837][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.23-22.27.48:865][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.23-22.27.48:892][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.23-22.27.48:900][120]AssetCheck: New page: Asset Save: BP_HealthPack
+[2024.01.23-22.27.48:900][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.01.23-22.27.50:365][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.01.23-22.27.50:366][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.27.50:366][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.27.50:554][278]LogViewport: Scene viewport resized to 1123x491, mode Windowed.
+[2024.01.23-22.28.07:162][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.01.23-22.28.07:162][986]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.28.07:163][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.28.25:355][465]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.01.23-22.28.25:359][465]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.01.23-22.28.25:367][465]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-22.28.25:367][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-22.28.25:411][465]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.23-22.28.25:411][465]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-22.28.25:411][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-22.28.46:102][762]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.23-22.28.46:108][762]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.23-22.28.46:113][762]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.23-22.28.46:120][763]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.23-22.28.47:523][931]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.01.23-22.28.47:529][931]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.23-22.28.50:727][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.23-22.28.52:116][272]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-22.28.52:154][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.23-22.28.52:184][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.23-22.28.52:214][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.23-22.29.01:881][393]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HealthPack
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.SKEL_BP_HealthPack_C:UserConstructionScript' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.SKEL_BP_HealthPack_C' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:907][393]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InfiniteMatrix/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.23-22.29.01:910][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-22.29.01:974][393]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_HealthPack
+[2024.01.23-22.29.01:974][393]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_HealthPack1C1A09F947ACC528011D53A8122961CE.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2024.01.23-22.29.01:985][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 545 ms)
+[2024.01.23-22.29.02:025][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.23-22.29.02:053][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.23-22.29.02:080][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.23-22.29.02:089][393]AssetCheck: New page: Asset Save: BP_HealthPack
+[2024.01.23-22.29.02:089][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.01.23-22.29.04:983][731]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.01.23-22.29.04:984][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.29.04:984][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.29.05:175][731]LogViewport: Scene viewport resized to 1125x493, mode Windowed.
+[2024.01.23-22.29.09:967][196]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.01.23-22.29.09:967][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-22.29.09:967][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-22.37.35:160][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.23-22.37.35:166][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.039
+[2024.01.23-22.37.35:167][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2024.01.23-22.37.35:167][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2024.01.23-22.37.35:210][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto9
+[2024.01.23-22.37.35:210][196]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_Player_Auto9DFA8821349E5363AD9201B80FA35B5AD.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto9.uasset'
+[2024.01.23-22.37.35:211][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2024.01.23-22.37.35:211][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2024.01.23-22.37.35:217][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto9
+[2024.01.23-22.37.35:217][196]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_HealthPack_Auto932EEE5004E53CF927193EF9077F95A02.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto9.uasset'
+[2024.01.23-22.37.35:218][196]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.01.23-22.39.24:883][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.23-22.39.26:880][377]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-22.39.26:984][377]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-22.39.26:984][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-22.39.27:022][377]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+	Asset Type: Blueprint
+[2024.01.23-22.39.27:364][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.23-22.39.27:394][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.23-22.39.27:424][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.23-22.39.32:064][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.23-22.39.32:093][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.23-22.39.35:274][905]LogSlate: Window 'Save Content' being destroyed
+[2024.01.23-22.39.35:281][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-22.39.35:401][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.23-22.39.35:423][905]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2024.01.23-22.39.35:424][905]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/TutorialMap214003CD4A6D9CA548032FBCCED57611.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2024.01.23-22.39.35:432][905]LogFileHelpers: Saving map 'TutorialMap' took 0.058
+[2024.01.23-22.39.35:432][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2024.01.23-22.39.35:474][905]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Player
+[2024.01.23-22.39.35:475][905]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_PlayerE21CF1794661087DE9FE329F4269DBC7.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2024.01.23-22.39.35:485][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 749 ms)
+[2024.01.23-22.39.35:493][905]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.23-22.39.35:493][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.01.23-22.39.35:493][905]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2024.01.23-22.39.35:493][905]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
