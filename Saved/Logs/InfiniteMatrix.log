@@ -3141,3 +3141,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-04.08.08:902][375]LogPlayLevel: Display: Destroying online subsystem :Context_41
 [2024.01.24-04.08.25:184][775]BlueprintLog: New page: Compile BP_TunnelSpawner
 [2024.01.24-04.08.25:248][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.24-04.09.04:205][ 17]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2024.01.24-04.09.04:269][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.24-04.09.05:725][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.24-04.09.05:756][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.24-04.09.08:193][112]LogSlate: Window 'Save Content' being destroyed
+[2024.01.24-04.09.08:201][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-04.09.08:330][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.24-04.09.08:351][112]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2024.01.24-04.09.08:352][112]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/TutorialMap6B52C23545DEAC8041422F9B45FA3800.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2024.01.24-04.09.08:360][112]LogFileHelpers: Saving map 'TutorialMap' took 0.058
+[2024.01.24-04.09.08:383][112]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner
+[2024.01.24-04.09.08:383][112]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Saved/BP_TunnelSpawnerD077FC2F4B5E6212C3A678B5B9A35454.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2024.01.24-04.09.08:391][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 25.1 sec)
+[2024.01.24-04.09.08:399][112]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-04.09.08:399][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2024.01.24-04.09.08:399][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2024.01.24-04.09.08:399][112]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
